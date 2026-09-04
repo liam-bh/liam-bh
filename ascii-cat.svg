@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="210" font-family="monospace" font-size="14"
+  <style>
+    .cat { fill: #1f2328; }
+    @media (prefers-color-scheme: dark) {
+      .cat { fill: #e6edf3; }
+    }
+  </style>
+  <g class="cat">
+    <text x="0" y="16"  xml:space="preserve">                         ,</text>
+    <text x="0" y="32"  xml:space="preserve">  ,-.       _,---._ __  / \</text>
+    <text x="0" y="48"  xml:space="preserve"> /  )    .-'       `./ /   \</text>
+    <text x="0" y="64"  xml:space="preserve">(  (   ,'            `/    /|</text>
+    <text x="0" y="80"  xml:space="preserve"> \  `-"             \'\   / |</text>
+    <text x="0" y="96"  xml:space="preserve">  `.              ,  \ \ /  |</text>
+    <text x="0" y="112" xml:space="preserve">   /`.          ,'-`----Y   |</text>
+    <text x="0" y="128" xml:space="preserve">  (            ;        |   '</text>
+    <text x="0" y="144" xml:space="preserve">  |  ,-.    ,-'         |  /</text>
+    <text x="0" y="160" xml:space="preserve">  |  | (   |        hjw | /</text>
+    <text x="0" y="176" xml:space="preserve">  )  |  \  `.___________|/</text>
+    <text x="0" y="192" xml:space="preserve">  `--'   `--'</text>
+  </g>
+</svg>
