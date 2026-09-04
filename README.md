@@ -37,7 +37,7 @@ Right now I'm trying to improve my:
 - 🎨 UI/UX design skills
 - ⚙️ Systems level languages skills
 
-<br clear="right">
+<br>
 
 ## 🧰 Tech Stack
 
@@ -52,6 +52,8 @@ Right now I'm trying to improve my:
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+<br>
 
 ## ✈️ Places I love
 
