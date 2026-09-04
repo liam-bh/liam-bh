@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="210" font-family="monospace" font-size="14"
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="210" font-family="monospace" font-size="14">
   <style>
     .cat { fill: #1f2328; }
     @media (prefers-color-scheme: dark) {
