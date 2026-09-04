@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Liam
 
-<img align="right" width="260" src="https://files.catbox.moe/81sbw2.svg" alt="ascii cat">
+<img align="right" width="260" src="https://file.garden/app1RSQVQ4K8gwSo/ascii-cat.svg" alt="ascii cat">
 
 **Full Stack Engineer studying at RMIT**
 
@@ -52,3 +52,12 @@ Right now I'm trying to improve my:
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+## ✈️ Places I love
+
+<p float="left">
+  <img src="https://file.garden/app1RSQVQ4K8gwSo/img1.jpeg" height="200" />
+  <img src="https://file.garden/app1RSQVQ4K8gwSo/img2.jpeg" height="200" /> 
+  <img src="https://file.garden/app1RSQVQ4K8gwSo/img3.jpg" height="200" />
+  <img src="https://file.garden/app1RSQVQ4K8gwSo/img4.jpeg" height="200" />
+</p>
