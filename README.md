@@ -47,7 +47,7 @@ At work I like to explore elegant solutions to business requirements, and at hom
 
 ## 🛠️ My Ideal Project
 
-My favourite projects have a dash of hardware in the mix and are in a novel problem space with many possible solutions.
+My favourite projects focus on system integration and have a dash of hardware in the mix. I also love a novel problem space with many possible solutions.
 
 I love it when software breaks assumptions. Doom running on pure CSS? Fire. SPA transitions without Javascript? Awesome.
 
